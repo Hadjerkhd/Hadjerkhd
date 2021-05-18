@@ -2,7 +2,6 @@
 - 👀 I’m interested in Deep and Machine Learning :brain: , Natural Language Processing (NLP) :tongue:
 - 🌱 I’m currently learning in depth Language Models like BERT
 - 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me ? drop me an email at khaldi.haadjer@gmail.com
 
 <!---
 Hadjer13/Hadjer13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
