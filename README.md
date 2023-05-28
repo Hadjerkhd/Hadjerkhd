@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hadjer, a phd student :student: and a lifelong learner :books:
+- 👋 Hi, I’m Hadjer, a data scientist (phD) and a lifelong learner :books:
 - 👀 I’m interested in Deep and Machine Learning :brain: , Natural Language Processing (NLP) :tongue:
 - 🌱 I’m currently learning in depth Language Models like BERT
 - 💞️ I love sharing my knowledge with other people from different domains
